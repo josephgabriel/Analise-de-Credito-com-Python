@@ -1,0 +1,26 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados
+data/Resultados.xlsx
+
+# Configurações de IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
