@@ -35,7 +35,7 @@ Analise_Credito/
 Clone o repositório:
 
 ```bash
-git clone <url-do-repositorio>
+git clone "https://github.com/josephgabriel/Analise-de-Credito-com-Python.git"
 cd Analise_Credito
 ```
 
